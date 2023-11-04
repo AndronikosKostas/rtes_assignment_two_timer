@@ -1,4 +1,4 @@
-# Introduction 
+![RaspBerrySetUp](https://github.com/AndronikosKostas/rtes_assignment_two_timer/assets/58566096/a89c8ef5-49bd-4bb7-b410-813ec598938c)# Introduction 
 Στην παρούσα αναφορά θα υλοποιηθεί ένας timer που θα τοποθετεί δείκτες συναρτήσεων ανά τακτά χρονικά διαστήματα μέσα σε μια ουρά FIFO. Οι δείκτες θα τοποθετούνται
 μέσα στην ουρά μέσω της συνάρτησης producer και θα εκτελούνται και θα βγαίνουν
 από την ουρά μέσω της συνάρτησης consumer. Οι δύο αυτές συναρτήσεις θα τρέχουν
@@ -14,5 +14,5 @@
 
 # Hardware Set up
 
-![Uploading RaspBerrySetUp.JPG…]()
+![RaspBerrySetUp](https://github.com/AndronikosKostas/rtes_assignment_two_timer/assets/58566096/33548ea9-77ae-4f6a-b88a-b226455038fd)
 
