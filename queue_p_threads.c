@@ -8,7 +8,7 @@
 #define QUEUESIZE 16                        
 #define PRODUCERS 1
 #define CONSUMERS 1
-#define SECONDS 20
+#define SECONDS 10
 #define ISOLATED 0
 #define COMBINED 1
 
