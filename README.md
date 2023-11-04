@@ -11,3 +11,8 @@
 χρησιμοποιήθηκε ήταν το Raspberry Pi Zero . Το visualization των δεδομένων από
 τα πειράματα πραγματοποιήθηκε με χρήση Matlab και τα δεδομένα εισόδου ήταν .txt
 αρχεία που δημιουργήθηκαν κατάλληλα στο κώδικα με χρήση timestamps.
+
+# Hardware Set up
+
+![Uploading RaspBerrySetUp.JPG…]()
+
